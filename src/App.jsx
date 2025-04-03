@@ -1,7 +1,5 @@
 import { createSignal } from 'solid-js';
 import banner from './assets/banner.png';
-import { Route, Router } from '@solidjs/router';
-import Home from './pages/Home';;
 
 function App(props) {
 
